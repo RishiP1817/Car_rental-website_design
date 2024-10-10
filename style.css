@@ -1,0 +1,470 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* .mainlogo{
+    width: 80%;
+    height: 60px;
+}
+
+
+
+li{
+
+    list-style-type: none;
+    
+}
+
+
+li a{
+    color: white;
+    text-decoration: underline;
+}
+
+
+
+.nav-link{
+    text-decoration: none;
+    font-size: 18px;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav-item :hover{
+    background-color: green;
+    color: white;
+
+
+} */
+
+
+
+.logonav{
+    width: 80%;
+    height: 65px;
+}
+
+
+.mainlogo{
+    width: 50%;
+    height: 60px;
+}
+
+.navbar-nav li a{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+
+}
+
+.nav-item :hover{
+    background-color: white;
+    
+    text-decoration: underline;
+
+}
+
+.navbar-nav li{
+    margin-left: 50px;
+
+}
+
+.footli{
+    list-style-type: none;
+}
+
+.footli a{
+    color: green;
+}
+
+
+
+.homecar{
+    width: 100%;
+    height: 550px;
+    float: left;
+    background-image: url("https://t3.ftcdn.net/jpg/07/06/84/98/360_F_706849895_PT62DN8bTFBa2CkEgYlDk9yFBmP66UO8.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    
+    
+
+}
+
+.exploreh4{
+    float: left;
+    width: 100%;
+    color: white;
+}
+
+.carh2{
+    
+    color: white;
+    /* margin-left: 62%;
+    margin-top: 380px;
+    font-size: 40px;
+    font-style: italic;
+     */
+     font-style: italic;
+     /* margin-left: 50px; */
+     margin-top: 100px;
+    
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.homep{
+    font-size: 20px;
+}
+
+.carreh3{
+    font-style: italic;
+    color: green;
+}
+
+
+.carep{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+.cardimg{
+    height: 300px;
+    border-radius: 20px;
+    border: 3px solid black;
+    text-align: center;
+
+
+}
+
+
+
+.explorebutton{
+    margin-left: 20px;
+    width: 80px;
+    height: 30px; 
+    background-color: green;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 15px;
+    border: 1px solid black;
+
+}
+
+.cardimg{
+    transition: transform 0.6s;
+}
+
+.cardimg:hover{
+    transform: scale(1.1);
+}
+
+
+
+
+
+
+
+
+
+/* service */
+
+.serviceimg{
+    float: left;
+    width: 100%;
+    height: 400px;
+    background-image: url("https://cdn.skoda-auto.com/images/sites/enin-v2/a71213c6-8d7e-4d75-b8db-0c633fe07cf4/8bca40fc7d92b44e04890e34cfb8852d/HeroBannerModule/d5873a76116765a49a9393a5cabdf63b/6c15c19c9087422c4b3593b63bcd9cadee61d995aa9aa406ecd1beab812bc116/Header_bp1920_1.webp");
+   
+    background-size: 100% 100%;
+    text-align: center;
+    
+}
+
+.serviceh1{
+    margin-top: 150px;
+    color: black;
+    text-decoration: underline;
+    
+}
+
+
+
+
+
+
+
+ 
+.card-title{
+    color: green;
+}
+
+.card{
+    box-shadow: -5px 10px 10px;
+   
+}
+
+.family{
+   margin-top: 30px;
+   width: 100%;
+   height: 400px;
+   text-align: center;
+
+
+
+}
+
+
+.famimg{
+    width: 100%;
+    height: 100%;
+    
+}
+
+.familiyh1{
+    margin-top: -250px;
+    color: white;
+}
+
+.familyp{
+
+    color: white;
+    font-size: 20px;
+}
+
+.card-img-top{
+    transition: transform 0.6s;
+    overflow: hidden;
+}
+
+.card{
+    overflow: hidden;
+}
+
+.card-img-top:hover{
+    transform: scale(1.1);
+    
+}
+
+
+
+
+
+
+
+/* about us */
+
+.clientimg{
+    width: 100%;
+    height: 100%;
+}
+
+.abouth1{
+    font-style: italic;
+    color: green;
+}
+
+.aboutp{
+    font-size: 30px;
+    text-decoration: solid;
+}
+
+.aboutcompp{
+    font-size: 20px;
+    font-style: oblique;
+}
+
+.abouticon{
+    width: 50px;
+    height: 50px;
+    color: green;
+}
+
+
+.aboutcardicons{
+    width: 50px;
+    height: 50px;
+    color: green;
+}
+
+.card-text{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.aboutpara{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+/* contactus */
+.touchh4{
+    font-style: italic;
+}
+
+.contacticon{
+    width: 30px;
+    height: 30px;
+    color: green;
+    margin-top: 20px;
+}
+
+
+.contactinput{
+    border: 3px solid black;
+    border-radius: 15px 0px 15px 0px;
+    width: 500px;
+    height: 40px;
+    text-align: center;
+    
+}
+
+.contactbutton{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    width: 120px;
+    height: 40px;
+    border-radius: 15px 0px 15px 0px;
+
+}
+
+.contactbutton a{
+    color: black;
+}
+
+.contactbutton :hover{
+    
+    color: white;
+}
+
+
+
+
+textarea{
+    width: 500px;
+    border-radius: 15px 0px 15px 0px;
+    border: 3px solid black;
+
+}
+
+
+
+/* Blog */
+
+.blogh6{
+    font-weight: bold;
+
+}
+
+.blogh2{
+    color: white;
+    font-weight: bold;
+}
+
+.blogh1{
+    color: white;
+    font-weight: bold;
+}
+
+.blogcontactbtn{
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    
+    background-color: darkgreen;
+    border-radius: 10px;
+    border: 2px solid black;
+
+
+}
+
+.blogcontactbtn a{
+    color: black;
+    font-size: 20px;
+
+}
+
+.blogcontactbtn a:hover{
+    color: white;
+    
+}
+
+
+@media (max-width: 768px) {
+    .blogcontactbtn {
+        width: 130px; /* Slightly smaller width for medium screens */
+        height: 45px; /* Slightly smaller height for medium screens */
+    }
+
+    .blogcontactbtn a {
+        font-size: 18px; /* Slightly smaller font size for medium screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .blogcontactbtn {
+        width: 120px; /* Smaller width for mobile */
+        height: 40px; /* Smaller height for mobile */
+    }
+
+    .blogcontactbtn a {
+        font-size: 16px; /* Smaller font size for mobile */
+    }
+}
+
+
+.blogimgh1{
+    text-shadow: 0 0 8px #37a33c, 0 0 8px #3aac3a;
+    font-style: italic;
+    font-size: 50px;
+    text-decoration: underline;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
